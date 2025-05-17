@@ -1,5 +1,4 @@
 # Sarah's Timetable
-# Sarah's Timetable
 
 **Sarah’s Timetable** is a Swift-based iOS app designed to help private tutors or peripatetic teachers manage student lessons, term dates, availability, and enquiries — all in one simple, focused app.
 
